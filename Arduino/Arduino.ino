@@ -25,10 +25,11 @@ int c;
 int e;
 int progBar=0;
 
+// For changing color in the Nextion
 int redClr = 47104;
 int blkClr = 12610;
 
-int maxRange = 150; // Ganti dengan angka yang ingin Anda konversi
+int maxRange = 150; // For converting temperature...
 float beanBar;
 float drumBar;
 
